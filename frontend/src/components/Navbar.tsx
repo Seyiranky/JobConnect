@@ -56,8 +56,8 @@ const Navbar: React.FC<NavbarProps> = ({ isLoggedIn = false, userType }) => {
           {/* Logo */}
           <div className="flex items-center">
             <Link to="/" className="flex items-center">
-              <span className="text-green-600 font-bold text-2xl mr-1">Lev</span>
-              <span className="text-gray-800 font-bold text-2xl">Konnect</span>
+              <span className="text-green-600 font-bold text-2xl mr-1">Job</span>
+              <span className="text-gray-800 font-bold text-2xl">Connect</span>
             </Link>
           </div>
 
